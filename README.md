@@ -14,10 +14,11 @@
 - **P DEĞERİ**: 0,6666
 
 ## Sonuç
-**P = 0,6666 > 0.05 olduğu için istatistiksel olarak anlamlı fark yoktur.**
+$p = 0.6666 > 0.05$  olduğu için A ve B gruplarının dönüşüm oranları arasında 'İstatistiksel' olarak anlamlı bir fark yoktur.
+
 
 ## İş Kararı
-İki tasarım arasında anlamlı fark bulunamadığından yeni tasarıma geçiş önerilmez.
+Yeni tasarımın (B grubu) dönüşüm oranında anlamlı bir artış sağlanmadığı tespit edilmiştir. Geliştirme, uygulama ve olası risk maliyetleri göz önüne alınarak
+yeni Tasarıma geçiş önerilmez ; mevcut tasarım (A grubu) ile devam edilmelidir.
 
-## Ek
 - `ab_test_sonuc.pdf`
